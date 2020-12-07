@@ -12,7 +12,7 @@ Primality tests can be divided under three main catogories.
 3) Deterministic
 
 ### Deterministic
-Like the name suggests, deterministic tests will determine if a number is prime or not. The accuracy of these tests are a 100%.
+!Like the name suggests, deterministic tests will determine if a number is prime or not. The accuracy of these tests are a 100%.
 The The AKS primality test, Lucas-Lehmer test and elliptic curve primality proving are two examples of deterministic primality tests.
 #### AKS primality test
 This deterministic algorithm can identify whether a number is prime or compsite in polynomial time. In addition to being deterministic,
